@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointOne</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/logindetails</source-url>
+   </source-info>
+   <taken-date>2024-03-29T22:59:10.467+05:30</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "standard_user",
+      "checked": true
+    },
+    {
+      "value": "qcu24s4901FyWDTwXGr6XA\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "secret_sauce",
+      "checked": true
+    },
+    {
+      "value": "qcu24s4901FyWDTwXGr6XA\u003d\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

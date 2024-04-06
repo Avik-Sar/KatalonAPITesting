@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScriptTestMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbd54434-679f-4646-b404-8840778a3996</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff7cd6a0-7065-4000-a3b5-bff63d0e962d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>ff7cd6a0-7065-4000-a3b5-bff63d0e962d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
