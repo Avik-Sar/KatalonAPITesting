@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TestSuite1</name>
+   <name>TestSuite2</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>40d5c2bc-97cd-4ff1-8721-f06fbbada824</testSuiteGuid>
+   <testSuiteGuid>938e9393-b8b8-4017-a9bd-bb9266989102</testSuiteGuid>
    <testCaseLink>
-      <guid>f3691624-e733-4218-8fe6-02bbdc05fe62</guid>
+      <guid>29807b4f-1fb8-42e4-a071-c982065c0a32</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/Booking an appointment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e25cd0a6-9530-4786-bb7a-3e6c7cec426c</guid>
+      <guid>17aaffd7-fe29-4b6c-b279-1d61aaa7aff2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Demo/RecordTestMode</testCaseId>
+      <testCaseId>Test Cases/Demo/ScriptMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
