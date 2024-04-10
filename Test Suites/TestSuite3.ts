@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Visual_Regression</name>
+   <name>TestSuite3</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>16c2a8fb-a61e-413a-bd3f-7c8ba4b1b8fe</testSuiteGuid>
+   <testSuiteGuid>2ffd33d6-2e6d-4958-82e0-85d0ada82a8c</testSuiteGuid>
    <testCaseLink>
-      <guid>34040f66-fcc3-4f4c-a281-879cc83dcea5</guid>
+      <guid>7b948837-78d6-479a-ae8c-eccb15ad2326</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Demo/appointment</testCaseId>
+      <testCaseId>Test Cases/Demo/ManualTestMode</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>65373177-b1f7-46c1-b26e-ffec967b2a6b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo/Active Browser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
