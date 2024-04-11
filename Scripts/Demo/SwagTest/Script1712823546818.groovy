@@ -29,5 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Manual/Page_Swag Labs/i
 
 WebUI.click(findTestObject('Object Repository/Manual/Page_Swag Labs/input_Swag Labs_login-button'))
 
+WebUI.verifyTextPresent('Swag Labs', false)
+
 WebUI.closeBrowser()
 
