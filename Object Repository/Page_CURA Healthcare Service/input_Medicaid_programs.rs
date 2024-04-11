@@ -6,12 +6,12 @@
    <elementGuidId>79e55a31-2c49-43ab-9be8-982ddffed657</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#radio_program_medicaid</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='radio_program_medicaid']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#radio_program_medicaid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e4b1fd5-f8c0-47ca-9ac4-aa18efeccbd6</webElementGuid>
+      <webElementGuid>34e39aaa-e751-4ca3-bb94-5aca97180172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>30b2ccf8-9b47-44eb-8fb7-079f0a1af69c</webElementGuid>
+      <webElementGuid>94aed009-6a70-423e-a8ba-73b95e19e127</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>programs</value>
-      <webElementGuid>46104e51-b207-41d7-ab45-6ddcd7583e40</webElementGuid>
+      <webElementGuid>52a5ffc8-5627-4772-8188-c73675c7bb36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>radio_program_medicaid</value>
-      <webElementGuid>bb6ae5d4-45c8-4af9-8117-a0ed926cedd5</webElementGuid>
+      <webElementGuid>224db9f7-31de-443a-aeed-4737b22c117a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Medicaid</value>
-      <webElementGuid>16e4d90e-8265-43d7-89b7-1466b1b50743</webElementGuid>
+      <webElementGuid>d7967a47-997f-4d1a-96d0-c7e19c929bde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radio_program_medicaid&quot;)</value>
-      <webElementGuid>fff2f920-ad53-42dc-a91d-2ffea74906bf</webElementGuid>
+      <webElementGuid>0eb17b7d-0274-4903-a401-068ee111a4b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='radio_program_medicaid']</value>
-      <webElementGuid>0ec88791-74f5-4630-acb3-821ed1fc8f8a</webElementGuid>
+      <webElementGuid>500e246f-f534-46be-b9fb-55d975b42a94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[3]/div/label[2]/input</value>
-      <webElementGuid>930ce602-547e-4ffd-8070-49e8f5d023ba</webElementGuid>
+      <webElementGuid>918f5efc-f9f1-41d8-b1cc-1715870c3735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]/input</value>
-      <webElementGuid>8cecec41-2858-4f47-9d1d-fc4fb8befb63</webElementGuid>
+      <webElementGuid>5ce55e04-dd8c-4066-8d63-4087fcfa13b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'programs' and @id = 'radio_program_medicaid']</value>
-      <webElementGuid>185d7419-0046-41eb-86bf-b4df34a3b50d</webElementGuid>
+      <webElementGuid>dd475466-58e1-4603-8cd3-38e542ca51fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
