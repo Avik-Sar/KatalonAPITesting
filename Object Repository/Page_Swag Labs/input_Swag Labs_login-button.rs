@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_Comment_comment</name>
+   <name>input_Swag Labs_login-button</name>
    <tag></tag>
-   <elementGuidId>372dabb6-b96c-4e5a-808e-3e7fbabb8449</elementGuidId>
+   <elementGuidId>9c66e8ac-d1e2-4469-b26a-1b2eb7696648</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#txt_comment</value>
+         <key>XPATH</key>
+         <value>//input[@id='login-button']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@id='txt_comment']</value>
+         <key>CSS</key>
+         <value>#login-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Comment&quot;i]</value>
+         <value>[data-test=&quot;login-button&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>textarea</value>
-      <webElementGuid>bc020fdb-8a4a-416d-b261-27881a87469f</webElementGuid>
+      <value>input</value>
+      <webElementGuid>c9628dd0-6370-4f3b-a5bd-76b94c8dda7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c69133b3-2b7d-4648-b708-69fc1554bd96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>0df9270b-80a0-4bf5-9d51-bc6467ff4fcf</webElementGuid>
+      <value>submit-button btn_action</value>
+      <webElementGuid>f862763f-8952-488b-95bf-3fa275f72fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>login-button</value>
+      <webElementGuid>4d17f7d3-2bab-4f5d-a62c-80163b3afcd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>txt_comment</value>
-      <webElementGuid>0c67a074-1aa7-4fd4-b90a-87dd47459fdd</webElementGuid>
+      <value>login-button</value>
+      <webElementGuid>9474ae81-9969-472a-8bd3-bd3aac4a9a2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>comment</value>
-      <webElementGuid>dd8c719d-d14e-4bb8-bca1-7cef4439e343</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Comment</value>
-      <webElementGuid>7ecb7dde-d9b4-4630-9720-1451c7b2d328</webElementGuid>
+      <value>login-button</value>
+      <webElementGuid>5dd610f6-9fef-4432-b229-880c93938ffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>rows</name>
+      <name>value</name>
       <type>Main</type>
-      <value>10</value>
-      <webElementGuid>bdd8a508-af83-489d-8124-0bdbaf8a8f34</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>4739a4ab-a69b-4122-a104-e2116b7db492</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txt_comment&quot;)</value>
-      <webElementGuid>0a2979b5-b3af-4ed3-9b5a-0f43cd574309</webElementGuid>
+      <value>id(&quot;login-button&quot;)</value>
+      <webElementGuid>ba0738db-8257-428c-aff3-edd90ccc911c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//textarea[@id='txt_comment']</value>
-      <webElementGuid>03146efa-6071-4742-a5b5-f151cf2c0d45</webElementGuid>
+      <value>//input[@id='login-button']</value>
+      <webElementGuid>28b3492d-7556-4f77-b17f-a5022d638373</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='appointment']/div/div/form/div[5]/div/textarea</value>
-      <webElementGuid>3c3b8334-0b3e-4c55-bd1e-d0be567f71e5</webElementGuid>
+      <value>//div[@id='login_button_container']/div/form/input</value>
+      <webElementGuid>b15ba1b2-ae8d-45a8-9ee7-3eb594ca0ef1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>74170b70-42fe-4c93-adb2-97dd976221c1</webElementGuid>
+      <value>//form/input</value>
+      <webElementGuid>3e6ac21c-6ee6-4af5-9b3f-936f6f654317</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//textarea[@id = 'txt_comment' and @name = 'comment' and @placeholder = 'Comment']</value>
-      <webElementGuid>58dec118-01e6-4137-9041-523375b1da89</webElementGuid>
+      <value>//input[@type = 'submit' and @id = 'login-button' and @name = 'login-button']</value>
+      <webElementGuid>69e95fda-f66e-478b-b11b-28b259689144</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

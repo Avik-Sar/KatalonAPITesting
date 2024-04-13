@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>textarea_Comment_comment</name>
+   <name>input_Business Name_email</name>
    <tag></tag>
-   <elementGuidId>372dabb6-b96c-4e5a-808e-3e7fbabb8449</elementGuidId>
+   <elementGuidId>dd2dd4f0-622d-4831-905b-8f59a99c6428</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#txt_comment</value>
+         <value>input[name=&quot;email&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='txt_comment']</value>
+         <value>//input[@name='email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Comment&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Email&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>textarea</value>
-      <webElementGuid>bc020fdb-8a4a-416d-b261-27881a87469f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>0df9270b-80a0-4bf5-9d51-bc6467ff4fcf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>txt_comment</value>
-      <webElementGuid>0c67a074-1aa7-4fd4-b90a-87dd47459fdd</webElementGuid>
+      <value>input</value>
+      <webElementGuid>86eabfd2-9ffa-45eb-a461-772dcda111f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>comment</value>
-      <webElementGuid>dd8c719d-d14e-4bb8-bca1-7cef4439e343</webElementGuid>
+      <value>email</value>
+      <webElementGuid>5346e261-aa7a-48d8-82f3-368075cdba23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>215de905-f399-4d59-a220-b91273a76021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>email form-control</value>
+      <webElementGuid>4df59eb5-6a83-4db6-a2d7-c207d0730af3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Comment</value>
-      <webElementGuid>7ecb7dde-d9b4-4630-9720-1451c7b2d328</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rows</name>
-      <type>Main</type>
-      <value>10</value>
-      <webElementGuid>bdd8a508-af83-489d-8124-0bdbaf8a8f34</webElementGuid>
+      <value>Email</value>
+      <webElementGuid>92fb57eb-e872-41e9-ae97-ab4c386ab125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txt_comment&quot;)</value>
-      <webElementGuid>0a2979b5-b3af-4ed3-9b5a-0f43cd574309</webElementGuid>
+      <value>id(&quot;swup&quot;)/section[@class=&quot;grey-box mt1&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;demo_form bgb br8 p3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;border rounded-4 p-4 p-md-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 form-group&quot;]/div[1]/div[@class=&quot;form&quot;]/div[@class=&quot;form-floating mb-3&quot;]/input[@class=&quot;email form-control&quot;]</value>
+      <webElementGuid>242fb4c4-53b2-43f8-9046-61c9b42356da</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//textarea[@id='txt_comment']</value>
-      <webElementGuid>03146efa-6071-4742-a5b5-f151cf2c0d45</webElementGuid>
+      <value>//input[@name='email']</value>
+      <webElementGuid>6819fe0e-1230-4090-bddd-d8b4bd6ef2b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='appointment']/div/div/form/div[5]/div/textarea</value>
-      <webElementGuid>3c3b8334-0b3e-4c55-bd1e-d0be567f71e5</webElementGuid>
+      <value>//main[@id='swup']/section/div/div/div/div/div/div/div/div/div/div/div/div[3]/input</value>
+      <webElementGuid>e89b5423-96ad-40b1-ac12-6c8c74f3fdc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//textarea</value>
-      <webElementGuid>74170b70-42fe-4c93-adb2-97dd976221c1</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>878abf9f-adbd-4f1e-8f99-7e2031b53c0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//textarea[@id = 'txt_comment' and @name = 'comment' and @placeholder = 'Comment']</value>
-      <webElementGuid>58dec118-01e6-4137-9041-523375b1da89</webElementGuid>
+      <value>//input[@name = 'email' and @type = 'email' and @placeholder = 'Email']</value>
+      <webElementGuid>7460094c-1fe9-45ff-956b-37dd81fb4d1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

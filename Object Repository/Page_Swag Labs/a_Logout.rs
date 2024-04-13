@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Make Appointment</name>
+   <name>a_Logout</name>
    <tag></tag>
-   <elementGuidId>fa36d5dd-a4fe-421f-89a7-4d4b42273f7a</elementGuidId>
+   <elementGuidId>c64deba2-8f26-46ae-9ff5-9733356c6098</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btn-make-appointment</value>
+         <key>XPATH</key>
+         <value>//a[@id='logout_sidebar_link']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@id='btn-make-appointment']</value>
+         <key>CSS</key>
+         <value>#logout_sidebar_link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Make Appointment&quot;i]</value>
+         <value>[data-test=&quot;logout-sidebar-link&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,134 +29,150 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f6ee74ab-6e91-4641-b53c-98f4ad8dad16</webElementGuid>
+      <webElementGuid>2b84fb60-c9e4-434a-a9b5-15d543a4ca55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>btn-make-appointment</value>
-      <webElementGuid>f67d2d25-22a7-4062-bbd6-6c08d37a68d9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>./profile.php#login</value>
-      <webElementGuid>994ee552-9a0f-4011-9087-c32f56baedd3</webElementGuid>
+      <value>logout_sidebar_link</value>
+      <webElementGuid>55a30c76-9e31-4d23-a2ce-90a573bc098e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-dark btn-lg</value>
-      <webElementGuid>6e3df7ee-b2a3-4252-ba66-35f1008a7c1c</webElementGuid>
+      <value>bm-item menu-item</value>
+      <webElementGuid>155ecdfc-e46d-4ccb-9547-de69f9668a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>bdce75f3-acdd-4dfa-b7dd-657156f58e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>logout-sidebar-link</value>
+      <webElementGuid>eda121cc-07dd-4d9e-9433-dc48e7bf794c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>175ac762-442a-4af3-9fe3-4ea73a2e6714</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Make Appointment</value>
-      <webElementGuid>76805d51-fe55-4f11-a211-376f6a4b95ad</webElementGuid>
+      <value>Logout</value>
+      <webElementGuid>e1794e7a-3115-4dcd-a7a7-6d7616c6f3a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-make-appointment&quot;)</value>
-      <webElementGuid>eb4e78a8-998c-40c2-bfb5-b3fb123b7990</webElementGuid>
+      <value>id(&quot;logout_sidebar_link&quot;)</value>
+      <webElementGuid>8281a784-dc04-44b8-a35a-c70522362014</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='btn-make-appointment']</value>
-      <webElementGuid>2de0b256-1097-4552-8f29-c10282cf6b69</webElementGuid>
+      <value>//a[@id='logout_sidebar_link']</value>
+      <webElementGuid>59442753-8806-4ee8-aeb1-1a285e8e693d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//header[@id='top']/div/a</value>
-      <webElementGuid>10f29050-634f-4744-8e26-e1c92a614a65</webElementGuid>
+      <value>//div[@id='menu_button_container']/div/div[2]/div/nav/a[3]</value>
+      <webElementGuid>1a40c925-51a4-4a28-bb2b-2ef56c68a698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Make Appointment')]</value>
-      <webElementGuid>b892750c-c8bb-4145-9e8d-8fd3a94976bd</webElementGuid>
+      <value>//a[contains(text(),'Logout')]</value>
+      <webElementGuid>6511d05a-d86a-4fd8-8762-4a300805dfbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::a[1]</value>
-      <webElementGuid>6e52a5b9-544c-4b2b-9108-de4251e8a757</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::a[1]</value>
+      <webElementGuid>f90c4e58-4f35-46b0-a8ee-b9c2bb8a7d7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/following::a[1]</value>
-      <webElementGuid>7e23e758-69af-4c43-8c1e-4bfc88a71fbc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::a[3]</value>
+      <webElementGuid>0f2efda7-ff71-47b3-a64a-c2ad5c2687ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::a[1]</value>
-      <webElementGuid>ac220451-75ae-4ecc-8721-3f60d7485cf2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>7801e95b-f8d9-47e4-8413-ae353778de67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(678) 813-1KMS'])[1]/preceding::a[1]</value>
-      <webElementGuid>71375392-c4a7-45f1-9dde-bfa8f383db02</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/preceding::a[2]</value>
+      <webElementGuid>14567b61-66b4-4d7a-90b5-3335c3c95d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Make Appointment']/parent::*</value>
-      <webElementGuid>110c01dd-7600-43cb-b7ca-adf989ca7e59</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>f01dffa8-f535-43c5-b672-dfd9216a06e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, './profile.php#login')]</value>
-      <webElementGuid>e10f17b4-b3dc-4986-9040-b23d77e6dc3b</webElementGuid>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>05751b91-3843-4115-baa2-caf112e4d418</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/a</value>
-      <webElementGuid>19b1c701-1792-4472-8d64-39df066a16d2</webElementGuid>
+      <value>//a[3]</value>
+      <webElementGuid>18043a71-da65-4561-a161-cb87229e6ba9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]</value>
-      <webElementGuid>fbac6d6c-89b3-4916-a21a-670df8870682</webElementGuid>
+      <value>//a[@id = 'logout_sidebar_link' and @href = '#' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>dfcaa3b1-a3bc-4da0-8ae1-2374f754acec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>d3a5f5fb-d392-4fcb-96ea-b6264e8a92b5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='combo_facility']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#combo_facility</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='combo_facility']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>007987a1-64f1-4581-9f34-3c27af3db65a</webElementGuid>
+      <webElementGuid>740b59f5-29fb-4c4e-a312-3a953bb63e8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>combo_facility</value>
-      <webElementGuid>906a2cb2-0179-462b-99e1-d07fc1220a71</webElementGuid>
+      <webElementGuid>000641a2-fa6b-4da0-826d-20dc4e4a18db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>facility</value>
-      <webElementGuid>4f126356-0f22-4871-a866-75624d511681</webElementGuid>
+      <webElementGuid>c9fcbb45-e567-4b75-9cd7-daede401a5bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>f0fc4304-7956-45c6-a0e8-c0ce1d7561de</webElementGuid>
+      <webElementGuid>74e4a07e-67ae-49d0-a0b8-61afb8e07ce1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
                             Hongkong CURA Healthcare Center
                             Seoul CURA Healthcare Center
                         </value>
-      <webElementGuid>f3688164-3e93-4a2b-ad4c-0b423a98a467</webElementGuid>
+      <webElementGuid>3c8e39bc-0b21-43e0-95b3-fc5a6fb2e8f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combo_facility&quot;)</value>
-      <webElementGuid>60f9c870-6940-4df6-8741-4a4da567436e</webElementGuid>
+      <webElementGuid>71cc44c6-d679-4420-9cbd-29570dbf066b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='combo_facility']</value>
-      <webElementGuid>4d5a4dee-6aff-4b05-8e26-857cd967034d</webElementGuid>
+      <webElementGuid>382ec09d-f415-4565-9364-6aec31418307</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div/div/select</value>
-      <webElementGuid>aff8e98f-5bdd-4daf-ba06-60a2cb86c586</webElementGuid>
+      <webElementGuid>468f07e1-e38d-4920-8320-941524ae80c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::select[1]</value>
-      <webElementGuid>602073c7-5de7-4b9b-92eb-b3458f5fcb64</webElementGuid>
+      <webElementGuid>7161ab2a-02e2-4840-81a7-c2470ae1fff3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[2]/following::select[1]</value>
-      <webElementGuid>0d12d8e3-1606-4a5f-a252-3dd421b2886c</webElementGuid>
+      <webElementGuid>d6c90645-b885-42f7-9fb5-028f22b52b68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::select[1]</value>
-      <webElementGuid>0478ca22-9b8c-4931-a476-1874861ed77f</webElementGuid>
+      <webElementGuid>104a795b-550c-4c28-af7b-a331405e34eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>fe886521-ead5-40d6-8672-15e16d715925</webElementGuid>
+      <webElementGuid>1ef2b024-24a5-4bf8-86d9-188df79f531b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,6 +137,6 @@
                             Hongkong CURA Healthcare Center
                             Seoul CURA Healthcare Center
                         ')]</value>
-      <webElementGuid>392d65e0-c4a6-4117-ad07-eb9d6859cf54</webElementGuid>
+      <webElementGuid>79a5ec9d-3643-4901-a93b-1524458c252d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

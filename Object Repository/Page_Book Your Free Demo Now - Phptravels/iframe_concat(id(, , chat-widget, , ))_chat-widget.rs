@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>iframe_concat(id(, , chat-widget, , ))_chat-widget</name>
    <tag></tag>
-   <elementGuidId>2285994a-3174-486f-8caf-29c6c3136121</elementGuidId>
+   <elementGuidId>878116dd-ab15-43f9-9d85-59b4cab70e37</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#txt-password</value>
+         <value>#chat-widget</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='txt-password']</value>
+         <value>//iframe[@id='chat-widget']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Password&quot;i</value>
+         <value>iframe[name=&quot;chat-widget&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,95 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>d0da2f43-ae26-42b2-b77c-def7fb0fa07d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>213352aa-27c3-4e10-bb5c-64d9143acb75</webElementGuid>
+      <value>iframe</value>
+      <webElementGuid>7e3bfa82-3f9a-4dc9-b25a-f45a4b175972</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>allow</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>7a025d08-55c0-4af5-a564-8170dc3ff407</webElementGuid>
+      <value>clipboard-read; clipboard-write; autoplay; microphone *; camera *; display-capture *; picture-in-picture *; fullscreen *;</value>
+      <webElementGuid>4ee2d906-24ce-477b-a0c7-656903967f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://secure.livechatinc.com/customer/action/open_chat?license_id=4618001&amp;group=0&amp;embedded=1&amp;widget_version=3&amp;unique_groups=0</value>
+      <webElementGuid>7caaf519-e8fb-4d4d-b1f2-07a6c1415b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allowtransparency</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e5723b55-10d9-4382-9fd4-7009ae78df30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>txt-password</value>
-      <webElementGuid>e70851ed-5b81-4556-83aa-d852f1ce8476</webElementGuid>
+      <value>chat-widget</value>
+      <webElementGuid>a5da91d7-d7b2-40c8-ad51-de6bb9c82fac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>8bd7f22f-6e5d-4c43-aaa6-0949d8b8059e</webElementGuid>
+      <value>chat-widget</value>
+      <webElementGuid>8bca2653-6b45-4b6f-84ea-25321fe5c628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>title</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>a08aed51-2d67-48bb-8701-90dff89ab8c6</webElementGuid>
+      <value>LiveChat chat widget</value>
+      <webElementGuid>9b647f1e-0ad8-4e22-bd7b-9215e5f9a68e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>scrolling</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>9222d102-dfed-44de-86d3-bc95f94b1d0f</webElementGuid>
+      <value>no</value>
+      <webElementGuid>dd8df43a-1c9a-4f4a-ac5f-bc4a9c71e08c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txt-password&quot;)</value>
-      <webElementGuid>4e9a4884-2f35-40a8-93e5-14be5b6a6e7c</webElementGuid>
+      <value>id(&quot;chat-widget&quot;)</value>
+      <webElementGuid>8d07d7ce-0acc-485c-a05a-fec22c5f0607</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='txt-password']</value>
-      <webElementGuid>92d99886-1e91-4703-921b-656b14125d80</webElementGuid>
+      <value>//iframe[@id='chat-widget']</value>
+      <webElementGuid>aa078e4d-23dc-4195-91c7-e74a402ad3d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[3]/div/input</value>
-      <webElementGuid>e4eff660-dda8-4217-b4d0-b019e0143856</webElementGuid>
+      <value>//div[@id='chat-widget-container']/iframe</value>
+      <webElementGuid>d5e1ee43-3f78-4a82-80ee-297299134e0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/input</value>
-      <webElementGuid>bb6b160c-25b2-43dc-8294-3f02f56dbd38</webElementGuid>
+      <value>//div/iframe</value>
+      <webElementGuid>0ec47b9d-6b97-4366-b69f-c431e7deb212</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'txt-password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>15f1ec4d-9b64-4ffc-b83e-29acb4246fff</webElementGuid>
+      <value>//iframe[@src = 'https://secure.livechatinc.com/customer/action/open_chat?license_id=4618001&amp;group=0&amp;embedded=1&amp;widget_version=3&amp;unique_groups=0' and @id = 'chat-widget' and @name = 'chat-widget' and @title = 'LiveChat chat widget']</value>
+      <webElementGuid>5c01be10-2ace-4f9d-a3b9-b7538629baca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
